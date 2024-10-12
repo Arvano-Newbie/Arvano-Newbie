@@ -31,7 +31,7 @@ Seorang Web Programmer muda dengan semangat tinggi dalam dunia pengembangan web.
 ## 📫 Hubungi Saya
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafino-primayoga-272996330/)
-[![Instagram](https://img.shields.io/badge/-Instagram-581DF2FF?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/@__vinnn.my/)
+[![Instagram](https://img.shields.io/badge/-Instagram-581DF2?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/@__vinnn.my/)
 
 ---
 
