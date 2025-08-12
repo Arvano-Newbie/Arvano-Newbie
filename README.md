@@ -1,15 +1,15 @@
-# Rafino Primayoga
+# Arvano` Newbie
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rafino-Primayoga&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Arvano-Newbie&color=blueviolet)
 
 ## 👨‍💻 Tentang Saya
 
 Seorang Web Programmer muda dengan semangat tinggi dalam dunia pengembangan web.
 
-- 🎂 **Usia:** 16 Tahun
+- 🎂 **Usia:** 17 Tahun
 - 📚 **Status:** Pelajar
-- 💼 **Bidang:** Web Programmer
-- 🚀 **Pengalaman:** 3 Tahun
+- 💼 **Bidang:** Trader, Programmer, Psikolog
+- 🚀 **Pengalaman:** Undefined :)
 
 ## 🛠️ Kemampuan Teknis
 
@@ -23,16 +23,12 @@ Seorang Web Programmer muda dengan semangat tinggi dalam dunia pengembangan web.
 - 🏫 Web Sekolah
 - 👨‍🏫 Web Kelas
 - 🌐 Web Portfolio
+- 📊 Komunitas Trading
 
 ## 📊 Statistik GitHub
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Rafino-Primayoga&show_icons=true&theme=radical)
-
-## 📫 Hubungi Saya
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafino-primayoga-272996330/)
-[![Instagram](https://img.shields.io/badge/-Instagram-581DF2?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__vinnn.my/)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Arvano-Newbie&show_icons=true&theme=radical)
 
 ---
 
-⭐️ Dari [Rafino Primayoga](https://github.com/Rafino-Primayoga)
+⭐️ Dari [Arvano-Newbie](https://github.com/Arvano-Newbie)
